@@ -1,0 +1,14 @@
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\Marksheet\Marksheet\bin\Debug\net6.0\Marksheet.exe
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\Marksheet\Marksheet\bin\Debug\net6.0\Marksheet.deps.json
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\Marksheet\Marksheet\bin\Debug\net6.0\Marksheet.runtimeconfig.json
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\Marksheet\Marksheet\bin\Debug\net6.0\Marksheet.dll
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\Marksheet\Marksheet\bin\Debug\net6.0\Marksheet.pdb
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\Marksheet\Marksheet\obj\Debug\net6.0\Marksheet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\Marksheet\Marksheet\obj\Debug\net6.0\Marksheet.AssemblyInfoInputs.cache
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\Marksheet\Marksheet\obj\Debug\net6.0\Marksheet.AssemblyInfo.cs
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\Marksheet\Marksheet\obj\Debug\net6.0\Marksheet.csproj.CoreCompileInputs.cache
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\Marksheet\Marksheet\obj\Debug\net6.0\Marksheet.dll
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\Marksheet\Marksheet\obj\Debug\net6.0\refint\Marksheet.dll
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\Marksheet\Marksheet\obj\Debug\net6.0\Marksheet.pdb
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\Marksheet\Marksheet\obj\Debug\net6.0\Marksheet.genruntimeconfig.cache
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\Marksheet\Marksheet\obj\Debug\net6.0\ref\Marksheet.dll

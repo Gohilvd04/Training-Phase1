@@ -1,0 +1,14 @@
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\Value Type Struct\Value Type Struct\bin\Debug\net6.0\Value Type Struct.exe
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\Value Type Struct\Value Type Struct\bin\Debug\net6.0\Value Type Struct.deps.json
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\Value Type Struct\Value Type Struct\bin\Debug\net6.0\Value Type Struct.runtimeconfig.json
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\Value Type Struct\Value Type Struct\bin\Debug\net6.0\Value Type Struct.dll
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\Value Type Struct\Value Type Struct\bin\Debug\net6.0\Value Type Struct.pdb
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\Value Type Struct\Value Type Struct\obj\Debug\net6.0\Value Type Struct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\Value Type Struct\Value Type Struct\obj\Debug\net6.0\Value Type Struct.AssemblyInfoInputs.cache
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\Value Type Struct\Value Type Struct\obj\Debug\net6.0\Value Type Struct.AssemblyInfo.cs
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\Value Type Struct\Value Type Struct\obj\Debug\net6.0\Value Type Struct.csproj.CoreCompileInputs.cache
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\Value Type Struct\Value Type Struct\obj\Debug\net6.0\Value Type Struct.dll
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\Value Type Struct\Value Type Struct\obj\Debug\net6.0\refint\Value Type Struct.dll
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\Value Type Struct\Value Type Struct\obj\Debug\net6.0\Value Type Struct.pdb
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\Value Type Struct\Value Type Struct\obj\Debug\net6.0\Value Type Struct.genruntimeconfig.cache
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\Value Type Struct\Value Type Struct\obj\Debug\net6.0\ref\Value Type Struct.dll

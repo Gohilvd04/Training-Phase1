@@ -1,0 +1,14 @@
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\Private Constructor\Private Constructor\bin\Debug\net6.0\Private Constructor.exe
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\Private Constructor\Private Constructor\bin\Debug\net6.0\Private Constructor.deps.json
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\Private Constructor\Private Constructor\bin\Debug\net6.0\Private Constructor.runtimeconfig.json
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\Private Constructor\Private Constructor\bin\Debug\net6.0\Private Constructor.dll
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\Private Constructor\Private Constructor\bin\Debug\net6.0\Private Constructor.pdb
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\Private Constructor\Private Constructor\obj\Debug\net6.0\Private Constructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\Private Constructor\Private Constructor\obj\Debug\net6.0\Private Constructor.AssemblyInfoInputs.cache
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\Private Constructor\Private Constructor\obj\Debug\net6.0\Private Constructor.AssemblyInfo.cs
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\Private Constructor\Private Constructor\obj\Debug\net6.0\Private Constructor.csproj.CoreCompileInputs.cache
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\Private Constructor\Private Constructor\obj\Debug\net6.0\Private Constructor.dll
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\Private Constructor\Private Constructor\obj\Debug\net6.0\refint\Private Constructor.dll
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\Private Constructor\Private Constructor\obj\Debug\net6.0\Private Constructor.pdb
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\Private Constructor\Private Constructor\obj\Debug\net6.0\Private Constructor.genruntimeconfig.cache
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\Private Constructor\Private Constructor\obj\Debug\net6.0\ref\Private Constructor.dll

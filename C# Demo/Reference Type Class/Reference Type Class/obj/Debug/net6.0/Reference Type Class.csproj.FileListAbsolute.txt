@@ -1,0 +1,14 @@
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\Reference Type Class\Reference Type Class\bin\Debug\net6.0\Reference Type Class.exe
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\Reference Type Class\Reference Type Class\bin\Debug\net6.0\Reference Type Class.deps.json
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\Reference Type Class\Reference Type Class\bin\Debug\net6.0\Reference Type Class.runtimeconfig.json
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\Reference Type Class\Reference Type Class\bin\Debug\net6.0\Reference Type Class.dll
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\Reference Type Class\Reference Type Class\bin\Debug\net6.0\Reference Type Class.pdb
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\Reference Type Class\Reference Type Class\obj\Debug\net6.0\Reference Type Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\Reference Type Class\Reference Type Class\obj\Debug\net6.0\Reference Type Class.AssemblyInfoInputs.cache
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\Reference Type Class\Reference Type Class\obj\Debug\net6.0\Reference Type Class.AssemblyInfo.cs
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\Reference Type Class\Reference Type Class\obj\Debug\net6.0\Reference Type Class.csproj.CoreCompileInputs.cache
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\Reference Type Class\Reference Type Class\obj\Debug\net6.0\Reference Type Class.dll
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\Reference Type Class\Reference Type Class\obj\Debug\net6.0\refint\Reference Type Class.dll
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\Reference Type Class\Reference Type Class\obj\Debug\net6.0\Reference Type Class.pdb
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\Reference Type Class\Reference Type Class\obj\Debug\net6.0\Reference Type Class.genruntimeconfig.cache
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\Reference Type Class\Reference Type Class\obj\Debug\net6.0\ref\Reference Type Class.dll

@@ -1,0 +1,14 @@
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\Data Types\Data Types\bin\Debug\net6.0\Data Types.exe
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\Data Types\Data Types\bin\Debug\net6.0\Data Types.deps.json
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\Data Types\Data Types\bin\Debug\net6.0\Data Types.runtimeconfig.json
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\Data Types\Data Types\bin\Debug\net6.0\Data Types.dll
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\Data Types\Data Types\bin\Debug\net6.0\Data Types.pdb
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\Data Types\Data Types\obj\Debug\net6.0\Data Types.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\Data Types\Data Types\obj\Debug\net6.0\Data Types.AssemblyInfoInputs.cache
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\Data Types\Data Types\obj\Debug\net6.0\Data Types.AssemblyInfo.cs
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\Data Types\Data Types\obj\Debug\net6.0\Data Types.csproj.CoreCompileInputs.cache
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\Data Types\Data Types\obj\Debug\net6.0\Data Types.dll
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\Data Types\Data Types\obj\Debug\net6.0\refint\Data Types.dll
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\Data Types\Data Types\obj\Debug\net6.0\Data Types.pdb
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\Data Types\Data Types\obj\Debug\net6.0\Data Types.genruntimeconfig.cache
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\Data Types\Data Types\obj\Debug\net6.0\ref\Data Types.dll

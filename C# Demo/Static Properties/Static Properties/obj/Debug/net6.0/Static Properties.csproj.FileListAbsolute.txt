@@ -1,0 +1,14 @@
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\C# Demo\Static Properties\Static Properties\bin\Debug\net6.0\Static Properties.exe
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\C# Demo\Static Properties\Static Properties\bin\Debug\net6.0\Static Properties.deps.json
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\C# Demo\Static Properties\Static Properties\bin\Debug\net6.0\Static Properties.runtimeconfig.json
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\C# Demo\Static Properties\Static Properties\bin\Debug\net6.0\Static Properties.dll
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\C# Demo\Static Properties\Static Properties\bin\Debug\net6.0\Static Properties.pdb
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\C# Demo\Static Properties\Static Properties\obj\Debug\net6.0\Static Properties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\C# Demo\Static Properties\Static Properties\obj\Debug\net6.0\Static Properties.AssemblyInfoInputs.cache
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\C# Demo\Static Properties\Static Properties\obj\Debug\net6.0\Static Properties.AssemblyInfo.cs
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\C# Demo\Static Properties\Static Properties\obj\Debug\net6.0\Static Properties.csproj.CoreCompileInputs.cache
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\C# Demo\Static Properties\Static Properties\obj\Debug\net6.0\Static Properties.dll
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\C# Demo\Static Properties\Static Properties\obj\Debug\net6.0\refint\Static Properties.dll
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\C# Demo\Static Properties\Static Properties\obj\Debug\net6.0\Static Properties.pdb
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\C# Demo\Static Properties\Static Properties\obj\Debug\net6.0\Static Properties.genruntimeconfig.cache
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\C# Demo\Static Properties\Static Properties\obj\Debug\net6.0\ref\Static Properties.dll

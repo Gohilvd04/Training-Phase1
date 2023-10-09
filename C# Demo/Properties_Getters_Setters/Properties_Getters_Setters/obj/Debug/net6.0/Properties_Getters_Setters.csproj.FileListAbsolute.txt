@@ -1,0 +1,14 @@
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\C# Demo\Properties_Getters_Setters\Properties_Getters_Setters\bin\Debug\net6.0\Properties_Getters_Setters.exe
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\C# Demo\Properties_Getters_Setters\Properties_Getters_Setters\bin\Debug\net6.0\Properties_Getters_Setters.deps.json
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\C# Demo\Properties_Getters_Setters\Properties_Getters_Setters\bin\Debug\net6.0\Properties_Getters_Setters.runtimeconfig.json
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\C# Demo\Properties_Getters_Setters\Properties_Getters_Setters\bin\Debug\net6.0\Properties_Getters_Setters.dll
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\C# Demo\Properties_Getters_Setters\Properties_Getters_Setters\bin\Debug\net6.0\Properties_Getters_Setters.pdb
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\C# Demo\Properties_Getters_Setters\Properties_Getters_Setters\obj\Debug\net6.0\Properties_Getters_Setters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\C# Demo\Properties_Getters_Setters\Properties_Getters_Setters\obj\Debug\net6.0\Properties_Getters_Setters.AssemblyInfoInputs.cache
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\C# Demo\Properties_Getters_Setters\Properties_Getters_Setters\obj\Debug\net6.0\Properties_Getters_Setters.AssemblyInfo.cs
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\C# Demo\Properties_Getters_Setters\Properties_Getters_Setters\obj\Debug\net6.0\Properties_Getters_Setters.csproj.CoreCompileInputs.cache
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\C# Demo\Properties_Getters_Setters\Properties_Getters_Setters\obj\Debug\net6.0\Properties_Getters_Setters.dll
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\C# Demo\Properties_Getters_Setters\Properties_Getters_Setters\obj\Debug\net6.0\refint\Properties_Getters_Setters.dll
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\C# Demo\Properties_Getters_Setters\Properties_Getters_Setters\obj\Debug\net6.0\Properties_Getters_Setters.pdb
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\C# Demo\Properties_Getters_Setters\Properties_Getters_Setters\obj\Debug\net6.0\Properties_Getters_Setters.genruntimeconfig.cache
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\C# Demo\Properties_Getters_Setters\Properties_Getters_Setters\obj\Debug\net6.0\ref\Properties_Getters_Setters.dll

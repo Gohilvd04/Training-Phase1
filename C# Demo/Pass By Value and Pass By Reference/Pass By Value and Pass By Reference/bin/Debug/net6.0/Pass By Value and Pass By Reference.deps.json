@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Pass By Value and Pass By Reference/1.0.0": {
+        "runtime": {
+          "Pass By Value and Pass By Reference.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Pass By Value and Pass By Reference/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

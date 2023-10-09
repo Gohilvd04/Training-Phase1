@@ -1,0 +1,14 @@
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\EscapeSeqVerbatimEx\EscapeSeqVerbatimEx\bin\Debug\net6.0\EscapeSeqVerbatimEx.exe
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\EscapeSeqVerbatimEx\EscapeSeqVerbatimEx\bin\Debug\net6.0\EscapeSeqVerbatimEx.deps.json
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\EscapeSeqVerbatimEx\EscapeSeqVerbatimEx\bin\Debug\net6.0\EscapeSeqVerbatimEx.runtimeconfig.json
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\EscapeSeqVerbatimEx\EscapeSeqVerbatimEx\bin\Debug\net6.0\EscapeSeqVerbatimEx.dll
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\EscapeSeqVerbatimEx\EscapeSeqVerbatimEx\bin\Debug\net6.0\EscapeSeqVerbatimEx.pdb
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\EscapeSeqVerbatimEx\EscapeSeqVerbatimEx\obj\Debug\net6.0\EscapeSeqVerbatimEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\EscapeSeqVerbatimEx\EscapeSeqVerbatimEx\obj\Debug\net6.0\EscapeSeqVerbatimEx.AssemblyInfoInputs.cache
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\EscapeSeqVerbatimEx\EscapeSeqVerbatimEx\obj\Debug\net6.0\EscapeSeqVerbatimEx.AssemblyInfo.cs
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\EscapeSeqVerbatimEx\EscapeSeqVerbatimEx\obj\Debug\net6.0\EscapeSeqVerbatimEx.csproj.CoreCompileInputs.cache
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\EscapeSeqVerbatimEx\EscapeSeqVerbatimEx\obj\Debug\net6.0\EscapeSeqVerbatimEx.dll
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\EscapeSeqVerbatimEx\EscapeSeqVerbatimEx\obj\Debug\net6.0\refint\EscapeSeqVerbatimEx.dll
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\EscapeSeqVerbatimEx\EscapeSeqVerbatimEx\obj\Debug\net6.0\EscapeSeqVerbatimEx.pdb
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\EscapeSeqVerbatimEx\EscapeSeqVerbatimEx\obj\Debug\net6.0\EscapeSeqVerbatimEx.genruntimeconfig.cache
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\EscapeSeqVerbatimEx\EscapeSeqVerbatimEx\obj\Debug\net6.0\ref\EscapeSeqVerbatimEx.dll

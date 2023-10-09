@@ -1,0 +1,14 @@
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\Static Class Ex\Static Class Ex\bin\Debug\net6.0\Static Class Ex.exe
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\Static Class Ex\Static Class Ex\bin\Debug\net6.0\Static Class Ex.deps.json
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\Static Class Ex\Static Class Ex\bin\Debug\net6.0\Static Class Ex.runtimeconfig.json
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\Static Class Ex\Static Class Ex\bin\Debug\net6.0\Static Class Ex.dll
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\Static Class Ex\Static Class Ex\bin\Debug\net6.0\Static Class Ex.pdb
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\Static Class Ex\Static Class Ex\obj\Debug\net6.0\Static Class Ex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\Static Class Ex\Static Class Ex\obj\Debug\net6.0\Static Class Ex.AssemblyInfoInputs.cache
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\Static Class Ex\Static Class Ex\obj\Debug\net6.0\Static Class Ex.AssemblyInfo.cs
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\Static Class Ex\Static Class Ex\obj\Debug\net6.0\Static Class Ex.csproj.CoreCompileInputs.cache
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\Static Class Ex\Static Class Ex\obj\Debug\net6.0\Static Class Ex.dll
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\Static Class Ex\Static Class Ex\obj\Debug\net6.0\refint\Static Class Ex.dll
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\Static Class Ex\Static Class Ex\obj\Debug\net6.0\Static Class Ex.pdb
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\Static Class Ex\Static Class Ex\obj\Debug\net6.0\Static Class Ex.genruntimeconfig.cache
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\Static Class Ex\Static Class Ex\obj\Debug\net6.0\ref\Static Class Ex.dll
