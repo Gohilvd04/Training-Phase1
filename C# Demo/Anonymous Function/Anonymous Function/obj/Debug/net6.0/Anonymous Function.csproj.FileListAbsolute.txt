@@ -1,0 +1,14 @@
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\C# Demo\Anonymous Function\Anonymous Function\bin\Debug\net6.0\Anonymous Function.exe
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\C# Demo\Anonymous Function\Anonymous Function\bin\Debug\net6.0\Anonymous Function.deps.json
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\C# Demo\Anonymous Function\Anonymous Function\bin\Debug\net6.0\Anonymous Function.runtimeconfig.json
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\C# Demo\Anonymous Function\Anonymous Function\bin\Debug\net6.0\Anonymous Function.dll
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\C# Demo\Anonymous Function\Anonymous Function\bin\Debug\net6.0\Anonymous Function.pdb
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\C# Demo\Anonymous Function\Anonymous Function\obj\Debug\net6.0\Anonymous Function.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\C# Demo\Anonymous Function\Anonymous Function\obj\Debug\net6.0\Anonymous Function.AssemblyInfoInputs.cache
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\C# Demo\Anonymous Function\Anonymous Function\obj\Debug\net6.0\Anonymous Function.AssemblyInfo.cs
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\C# Demo\Anonymous Function\Anonymous Function\obj\Debug\net6.0\Anonymous Function.csproj.CoreCompileInputs.cache
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\C# Demo\Anonymous Function\Anonymous Function\obj\Debug\net6.0\Anonymous Function.dll
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\C# Demo\Anonymous Function\Anonymous Function\obj\Debug\net6.0\refint\Anonymous Function.dll
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\C# Demo\Anonymous Function\Anonymous Function\obj\Debug\net6.0\Anonymous Function.pdb
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\C# Demo\Anonymous Function\Anonymous Function\obj\Debug\net6.0\Anonymous Function.genruntimeconfig.cache
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\C# Demo\Anonymous Function\Anonymous Function\obj\Debug\net6.0\ref\Anonymous Function.dll
