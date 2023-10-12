@@ -1,0 +1,14 @@
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\C# Demo\Lambda Expression\Lambda Expression\bin\Debug\net6.0\Lambda Expression.exe
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\C# Demo\Lambda Expression\Lambda Expression\bin\Debug\net6.0\Lambda Expression.deps.json
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\C# Demo\Lambda Expression\Lambda Expression\bin\Debug\net6.0\Lambda Expression.runtimeconfig.json
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\C# Demo\Lambda Expression\Lambda Expression\bin\Debug\net6.0\Lambda Expression.dll
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\C# Demo\Lambda Expression\Lambda Expression\bin\Debug\net6.0\Lambda Expression.pdb
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\C# Demo\Lambda Expression\Lambda Expression\obj\Debug\net6.0\Lambda Expression.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\C# Demo\Lambda Expression\Lambda Expression\obj\Debug\net6.0\Lambda Expression.AssemblyInfoInputs.cache
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\C# Demo\Lambda Expression\Lambda Expression\obj\Debug\net6.0\Lambda Expression.AssemblyInfo.cs
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\C# Demo\Lambda Expression\Lambda Expression\obj\Debug\net6.0\Lambda Expression.csproj.CoreCompileInputs.cache
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\C# Demo\Lambda Expression\Lambda Expression\obj\Debug\net6.0\Lambda Expression.dll
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\C# Demo\Lambda Expression\Lambda Expression\obj\Debug\net6.0\refint\Lambda Expression.dll
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\C# Demo\Lambda Expression\Lambda Expression\obj\Debug\net6.0\Lambda Expression.pdb
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\C# Demo\Lambda Expression\Lambda Expression\obj\Debug\net6.0\Lambda Expression.genruntimeconfig.cache
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\C# Demo\Lambda Expression\Lambda Expression\obj\Debug\net6.0\ref\Lambda Expression.dll
