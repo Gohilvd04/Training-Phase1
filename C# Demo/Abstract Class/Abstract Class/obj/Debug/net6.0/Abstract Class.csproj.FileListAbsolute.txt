@@ -1,0 +1,14 @@
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\C# Demo\Abstract Class\Abstract Class\obj\Debug\net6.0\Abstract Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\C# Demo\Abstract Class\Abstract Class\obj\Debug\net6.0\Abstract Class.AssemblyInfoInputs.cache
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\C# Demo\Abstract Class\Abstract Class\obj\Debug\net6.0\Abstract Class.AssemblyInfo.cs
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\C# Demo\Abstract Class\Abstract Class\obj\Debug\net6.0\Abstract Class.csproj.CoreCompileInputs.cache
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\C# Demo\Abstract Class\Abstract Class\bin\Debug\net6.0\Abstract Class.exe
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\C# Demo\Abstract Class\Abstract Class\bin\Debug\net6.0\Abstract Class.deps.json
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\C# Demo\Abstract Class\Abstract Class\bin\Debug\net6.0\Abstract Class.runtimeconfig.json
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\C# Demo\Abstract Class\Abstract Class\bin\Debug\net6.0\Abstract Class.dll
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\C# Demo\Abstract Class\Abstract Class\bin\Debug\net6.0\Abstract Class.pdb
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\C# Demo\Abstract Class\Abstract Class\obj\Debug\net6.0\Abstract Class.dll
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\C# Demo\Abstract Class\Abstract Class\obj\Debug\net6.0\refint\Abstract Class.dll
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\C# Demo\Abstract Class\Abstract Class\obj\Debug\net6.0\Abstract Class.pdb
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\C# Demo\Abstract Class\Abstract Class\obj\Debug\net6.0\Abstract Class.genruntimeconfig.cache
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\C# Demo\Abstract Class\Abstract Class\obj\Debug\net6.0\ref\Abstract Class.dll

@@ -13,8 +13,6 @@
               * does not require to specify the data type of parameter
              */
 
-
-
             MyDel obj = (a) => {
                 a += 5;
                 Console.WriteLine(a);
