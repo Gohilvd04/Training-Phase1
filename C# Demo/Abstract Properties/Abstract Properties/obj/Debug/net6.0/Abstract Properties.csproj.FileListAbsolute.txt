@@ -1,0 +1,14 @@
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\C# Demo\Abstract Properties\Abstract Properties\bin\Debug\net6.0\Abstract Properties.exe
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\C# Demo\Abstract Properties\Abstract Properties\bin\Debug\net6.0\Abstract Properties.deps.json
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\C# Demo\Abstract Properties\Abstract Properties\bin\Debug\net6.0\Abstract Properties.runtimeconfig.json
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\C# Demo\Abstract Properties\Abstract Properties\bin\Debug\net6.0\Abstract Properties.dll
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\C# Demo\Abstract Properties\Abstract Properties\bin\Debug\net6.0\Abstract Properties.pdb
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\C# Demo\Abstract Properties\Abstract Properties\obj\Debug\net6.0\Abstract Properties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\C# Demo\Abstract Properties\Abstract Properties\obj\Debug\net6.0\Abstract Properties.AssemblyInfoInputs.cache
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\C# Demo\Abstract Properties\Abstract Properties\obj\Debug\net6.0\Abstract Properties.AssemblyInfo.cs
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\C# Demo\Abstract Properties\Abstract Properties\obj\Debug\net6.0\Abstract Properties.csproj.CoreCompileInputs.cache
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\C# Demo\Abstract Properties\Abstract Properties\obj\Debug\net6.0\Abstract Properties.dll
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\C# Demo\Abstract Properties\Abstract Properties\obj\Debug\net6.0\refint\Abstract Properties.dll
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\C# Demo\Abstract Properties\Abstract Properties\obj\Debug\net6.0\Abstract Properties.pdb
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\C# Demo\Abstract Properties\Abstract Properties\obj\Debug\net6.0\Abstract Properties.genruntimeconfig.cache
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\C# Demo\Abstract Properties\Abstract Properties\obj\Debug\net6.0\ref\Abstract Properties.dll

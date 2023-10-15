@@ -10,6 +10,8 @@
         public string Phone;
 
         public abstract void PrintDetails();
+        public abstract void P();
+
 
     }
     class Student: Person
@@ -25,6 +27,7 @@
             Console.WriteLine("Student rollNumber is : {0}", rollNumber);
             Console.WriteLine("Student fees is : {0}", fees);
         }
+        public override void P() { }
 
     }
 
@@ -33,6 +36,7 @@
         public int salary;
         public string qualification;
 
+        public override void P() { }
         public override void PrintDetails()
         {
             string name = FirstName + " " + LastName;
