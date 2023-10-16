@@ -1,0 +1,14 @@
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\C# Demo\Interface Inheritance\Interface Inheritance\bin\Debug\net6.0\Interface Inheritance.exe
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\C# Demo\Interface Inheritance\Interface Inheritance\bin\Debug\net6.0\Interface Inheritance.deps.json
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\C# Demo\Interface Inheritance\Interface Inheritance\bin\Debug\net6.0\Interface Inheritance.runtimeconfig.json
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\C# Demo\Interface Inheritance\Interface Inheritance\bin\Debug\net6.0\Interface Inheritance.dll
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\C# Demo\Interface Inheritance\Interface Inheritance\bin\Debug\net6.0\Interface Inheritance.pdb
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\C# Demo\Interface Inheritance\Interface Inheritance\obj\Debug\net6.0\Interface Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\C# Demo\Interface Inheritance\Interface Inheritance\obj\Debug\net6.0\Interface Inheritance.AssemblyInfoInputs.cache
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\C# Demo\Interface Inheritance\Interface Inheritance\obj\Debug\net6.0\Interface Inheritance.AssemblyInfo.cs
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\C# Demo\Interface Inheritance\Interface Inheritance\obj\Debug\net6.0\Interface Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\C# Demo\Interface Inheritance\Interface Inheritance\obj\Debug\net6.0\Interface Inheritance.dll
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\C# Demo\Interface Inheritance\Interface Inheritance\obj\Debug\net6.0\refint\Interface Inheritance.dll
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\C# Demo\Interface Inheritance\Interface Inheritance\obj\Debug\net6.0\Interface Inheritance.pdb
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\C# Demo\Interface Inheritance\Interface Inheritance\obj\Debug\net6.0\Interface Inheritance.genruntimeconfig.cache
+C:\Users\Vishal\Dropbox\PC\Desktop\Gateway Learning and Development\Phase I\C#\C# Demo\Interface Inheritance\Interface Inheritance\obj\Debug\net6.0\ref\Interface Inheritance.dll
